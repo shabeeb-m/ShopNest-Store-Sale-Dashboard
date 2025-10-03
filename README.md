@@ -1,4 +1,4 @@
-# ShopNest Analytics Dashboard Project
+# Store Analytics Dashboard Project
 
 - The project aims to design and develop a comprehensive Power BI dashboard for a leading e-commerce department store in Portugal.
 - Utilizes anonymized authentic commercial data from nine detailed datasets to enhance retail analytics.
